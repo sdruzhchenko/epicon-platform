@@ -1,0 +1,13 @@
+{
+	"modules": [
+		{
+			"version" : "0.0.1",
+			"name" : "test_ent",
+			"type" : "ent",
+			"require": {
+				"test_service": "0.0.1"
+			},
+			"sys": false
+		}
+	]
+}

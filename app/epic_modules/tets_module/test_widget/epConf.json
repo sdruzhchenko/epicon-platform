@@ -1,0 +1,8 @@
+{
+	"modules": [
+		{
+			"name" : "test_widget",
+			"type" : "widget"
+		}
+	]
+}
